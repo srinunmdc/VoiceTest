@@ -9,7 +9,7 @@ ACCOUNT_SID='ACcfd4507f35a376dee792f28081c1fa23'
 API_KEY='SKd6bd93b90edf4ab5294dbc9b008ebb43'
 API_KEY_SECRET='EeCzskmV6CcUXwrNoNwN0cQa6OF6wjHG'
 PUSH_CREDENTIAL_SID = 'CR***'
-APP_SID = 'AP***'
+APP_SID = 'AP3046264f7c56407e819928b058a5a38b'
 
 """
 Use a valid Twilio number by adding to your account via https://www.twilio.com/console/phone-numbers/verified
